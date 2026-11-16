@@ -5,7 +5,6 @@
  * @section 111
  * @date 11/13/2026
  *
- * Schedules SIGALRM for five seconds in the future and handles it.
  * Run: ./signal_alarm
  ***************************************************************/
 

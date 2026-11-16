@@ -5,7 +5,6 @@
  * @section 111
  * @date 11/13/2026
  *
- * Sends a random integer to another process with SIGUSR1/sigqueue().
  * Usage: ./send_signal <receiver_PID>
  ***************************************************************/
 

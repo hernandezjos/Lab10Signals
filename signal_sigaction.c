@@ -5,8 +5,6 @@
  * @section 111
  * @date 11/13/2026
  *
- * Uses sigaction() with SA_SIGINFO to display the sender's PID
- * when this process receives SIGUSR1.
  *
  * From another terminal, run: kill -SIGUSR1 <PID>
  ***************************************************************/

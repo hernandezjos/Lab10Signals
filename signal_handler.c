@@ -5,8 +5,6 @@
  * @section 111
  * @date 11/13/2026
  *
- * Demonstrates handling SIGINT without exiting from the handler.
- * Run: ./signal_handler
  * Send SIGINT from another terminal: kill -SIGINT <PID>
  * End the program: kill -SIGKILL <PID>
  ***************************************************************/

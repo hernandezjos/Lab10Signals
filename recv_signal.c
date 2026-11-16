@@ -6,7 +6,6 @@
  * @section 111
  * @date 11/13/2026
  *
- * Receives SIGUSR1 with an integer payload sent through sigqueue().
  * Run this program first: ./recv_signal
  * Then run: ./send_signal <PID shown by this program>
  ***************************************************************/
